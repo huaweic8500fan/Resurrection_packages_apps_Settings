@@ -1247,7 +1247,7 @@
   <string name="animation14">顶部滑出</string>
   <string name="animation15">快速旋转</string>
   <!-- OmniSwitch -->
-  <string name="omniswitch_category">Omni切换器</string>
+  <string name="omniswitch_category">欧迷你切换器</string>
   <string name="recents_use_omniswitch_title">使用历史</string>
   <string name="recents_use_omniswitch_summary">使用 Omni切换器 而不是默认使用历史视图</string>
   <string name="omniswitch_start_settings_title">设置</string>
